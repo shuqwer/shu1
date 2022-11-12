@@ -1,0 +1,6 @@
+E:\Web程序设计\第九周\用户权限角色管理\Model\bin\Debug\Model.dll
+E:\Web程序设计\第九周\用户权限角色管理\Model\bin\Debug\Model.pdb
+E:\Web程序设计\第九周\用户权限角色管理\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+E:\Web程序设计\第九周\用户权限角色管理\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+E:\Web程序设计\第九周\用户权限角色管理\Model\obj\Debug\Model.dll
+E:\Web程序设计\第九周\用户权限角色管理\Model\obj\Debug\Model.pdb

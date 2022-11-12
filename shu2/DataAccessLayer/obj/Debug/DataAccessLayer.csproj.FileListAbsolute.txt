@@ -1,0 +1,9 @@
+E:\Web程序设计\第九周\用户权限角色管理\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Web程序设计\第九周\用户权限角色管理\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Web程序设计\第九周\用户权限角色管理\DataAccessLayer\bin\Debug\Model.dll
+E:\Web程序设计\第九周\用户权限角色管理\DataAccessLayer\bin\Debug\Model.pdb
+E:\Web程序设计\第九周\用户权限角色管理\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+E:\Web程序设计\第九周\用户权限角色管理\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Web程序设计\第九周\用户权限角色管理\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\Web程序设计\第九周\用户权限角色管理\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Web程序设计\第九周\用户权限角色管理\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

@@ -1,0 +1,11 @@
+E:\Web程序设计\第九周\用户权限角色管理\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+E:\Web程序设计\第九周\用户权限角色管理\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+E:\Web程序设计\第九周\用户权限角色管理\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+E:\Web程序设计\第九周\用户权限角色管理\BusinessLogicLayer\bin\Debug\Model.dll
+E:\Web程序设计\第九周\用户权限角色管理\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+E:\Web程序设计\第九周\用户权限角色管理\BusinessLogicLayer\bin\Debug\Model.pdb
+E:\Web程序设计\第九周\用户权限角色管理\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+E:\Web程序设计\第九周\用户权限角色管理\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+E:\Web程序设计\第九周\用户权限角色管理\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csproj.CopyComplete
+E:\Web程序设计\第九周\用户权限角色管理\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+E:\Web程序设计\第九周\用户权限角色管理\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
